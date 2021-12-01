@@ -1,7 +1,7 @@
 name: 新功能提议
 description: 请求添加一个功能
 title: '[NEW] '
-labels: []
+labels: [ 'enhancement' ]
 
 body:
   # Input | Requset
